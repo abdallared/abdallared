@@ -1,125 +1,210 @@
-# Hi, I'm Abdallah Ghamry 👋
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c47d5b&height=220&section=header&text=Abdallah%20Ghamry&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-**AI Engineer | Data Scientist | ML Enthusiast**
+<!-- Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=C47D5B&center=true&vCenter=true&width=750&lines=AI+Engineer;Machine+Learning+Engineer;NLP+%7C+LLMs+%7C+RAG;MLOps+%7C+Cloud+Deployment;Building+Production+AI+Systems" />
+</p>
 
-Building scalable ML solutions, intelligent NLP systems, and cloud-deployed AI that delivers measurable results.
+<!-- Social Links -->
+<p align="center">
+<a href="https://abdallared.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-c47d5b?style=for-the-badge&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/abdallahreda42">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:abdreada4444@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-c47d5b?style=for-the-badge&logoColor=white)](https://abdallared.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallahreda42)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdreada4444@gmail.com)
-
----
-
-## 🚀 About Me
-
-I'm an AI Engineer and Data Scientist passionate about transforming complex data into actionable insights. Currently pursuing my Bachelor's in Software Engineering at Egyptian Chinese University, I specialize in:
-
-- **Machine Learning & Deep Learning**: Building and optimizing ML models with high accuracy
-- **Natural Language Processing**: Developing intelligent text processing and language understanding systems
-- **Cloud Deployment**: Architecting scalable solutions on AWS and cloud platforms
-- **MLOps**: Streamlining ML workflows with automation and best practices
-
----
-
-## 💼 Experience
-
-### 🏢 **Artificial Intelligence Engineer**
-**Hive Tech.ai** | Sep 2025 — Present
-- Improved ML model accuracy by 15% through advanced algorithms and feature engineering
-- Applied dimensionality reduction techniques (PCA, t-SNE) to high-dimensional datasets, reducing training time by 30%
-
-### 🎓 **Multiple AI/ML Internships**
-**National Telecommunication Institute (NTI)** | July 2024 — August 2024
-
-**AI Track:**
-- Engineered end-to-end Generative AI pipelines using GANs and Attention Models
-- Developed and optimized Deep Learning models with 15% accuracy improvements
-- Orchestrated MLOps strategies with MLflow and Hugging Face
-
-**NLP Track:**
-- Cleaned and preprocessed 100,000+ documents using NLTK, spaCy, and Transformers
-- Built models for sentiment analysis, text classification, and NER with 92% F1-score
-
-**Cloud & AWS Track:**
-- Designed scalable ML workflows on AWS, reducing costs by 30%
-- Built and deployed models on SageMaker handling 1,000+ requests/minute
-
-**Big Data Track:**
-- Architected data pipelines using Hadoop, Spark, and Kafka processing terabytes daily
-- Optimized ETL workflows reducing processing time by 60%
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abdallared&label=Profile%20Views&color=c47d5b&style=flat" />
+</p>
 
 ---
 
-## 🔧 Tech Stack
+# 🚀 About Me
 
-**Languages:** Python, JavaScript, TypeScript, SQL  
-**ML/AI:** TensorFlow, PyTorch, Scikit-learn, Hugging Face, YOLO, GANs  
-**NLP:** NLTK, spaCy, Transformers, GPT, LLMs, RAG  
-**Cloud:** AWS (SageMaker, Lambda, EC2), Google Cloud  
-**Data:** Pandas, NumPy, Spark, Hadoop, Kafka  
-**DevOps/MLOps:** MLflow, Docker, Git, CI/CD  
-**Frontend:** React, TypeScript, Vite, Tailwind CSS  
+AI Engineer and Data Scientist focused on building real-world machine learning systems, NLP applications, and scalable AI deployments. Currently pursuing a **Bachelor’s in Software Engineering** at Egyptian Chinese University.
 
----
+### I specialize in:
 
-## 📊 Featured Projects
-
-### 🎯 **Mini RAG** | April 2026
-Lightweight Retrieval-Augmented Generation for local question-answering using embeddings and retrieval.
-- **Tech:** RAG, NLP, Embeddings
-- **[View Project](https://github.com/abdallared/Mini_RAG-main)**
-
-### 🚗 **Vehicle Detection Fine-tuning** | October 2025
-Improved vehicle detection accuracy by 18% using YOLO and Faster R-CNN with transfer learning.
-- **Tech:** YOLO, Faster R-CNN, Transfer Learning
-- **[View Project](https://github.com/abdallared/Vehicle_Detection-finetuning-)**
-
-### 📸 **Image Caption Generator** | August 2024
-Deep learning model generating descriptive captions with 90% accuracy using CNN-LSTM and attention mechanisms.
-- **Tech:** CNN, LSTM, ResNet, NLP
-- **[View Project](https://github.com/abdallared/Image_Caption_Generator)**
-
-### 🏥 **Care Insurance Classification** | August 2024
-Predictive classification model for vehicle insurance risk with 94% precision.
-- **Tech:** Classification, Risk Assessment
-- **[View Project](https://github.com/abdallared/car-insurance)**
-
-### 🚙 **Car Price Prediction** | May 2025
-Linear regression model predicting car prices with MAE < $500 using engineered features.
-- **Tech:** Linear Regression, ML
-- **[View Project](https://github.com/abdallared/car_price_prediction)**
+- Machine Learning & Deep Learning  
+- NLP, LLMs, and RAG Systems  
+- MLOps & Model Deployment  
+- Cloud AI (AWS / GCP)  
+- End-to-End ML Pipelines  
 
 ---
 
-## 📈 Key Achievements
+# 💼 Experience
 
-- ✅ **15+ ML Projects** spanning computer vision, NLP, and data science
-- ✅ **5+ Internships** in AI, NLP, Cloud, and Big Data
-- ✅ **94% Best Model Accuracy** across classification tasks
-- ✅ **40% Efficiency Gains** through ML pipeline optimization
-- ✅ **30% Cost Reduction** in cloud infrastructure
-- ✅ **50% Speed Improvement** in model inference and deployment
+## Artificial Intelligence Engineer — Hive Tech.ai  
+**Sep 2025 — Present**
 
----
-
-## 📚 Currently Learning
-
-- Advanced LLM fine-tuning and prompt engineering
-- Reinforcement Learning applications
-- MLOps best practices and model monitoring
-- Distributed computing with Apache Spark
+- Improved ML model accuracy by **15%** using advanced feature engineering  
+- Applied PCA and t-SNE dimensionality reduction reducing training time **30%**  
+- Built scalable inference pipelines for production deployment  
 
 ---
 
-## 🎯 Let's Connect
+## AI/ML Intern — National Telecommunication Institute (NTI)  
+**July 2024 — Aug 2024**
 
-I'm always interested in collaborating on AI/ML projects, discussing new technologies, or exploring opportunities in the AI space.
+### Generative AI Track
+- Built end-to-end Generative AI pipelines using GANs and Attention Models  
+- Improved model performance by **15%**  
+- Implemented MLOps pipelines using MLflow and HuggingFace  
 
-- 🌐 [Portfolio](https://abdallared.github.io/portfolio/)
-- 💼 [LinkedIn](https://linkedin.com/in/abdallahreda42)
-- 📧 [Email](mailto:abdreada4444@gmail.com)
-- 💻 [GitHub](https://github.com/abdallared)
+### NLP Track
+- Processed **100K+ documents** using NLTK, spaCy, Transformers  
+- Built sentiment analysis, classification, and NER models  
+- Achieved **92% F1-score**  
+
+### Cloud & AWS Track
+- Designed scalable ML workflows on AWS  
+- Reduced infrastructure costs by **30%**  
+- Deployed models using SageMaker (1000+ req/min)  
+
+### Big Data Track
+- Built pipelines using Spark, Hadoop, Kafka  
+- Reduced ETL processing time by **60%**  
 
 ---
 
-**"Turning data into decisions, and models into impact."**
+# 🔧 Tech Stack
+
+### Languages
+Python • JavaScript • TypeScript • SQL  
+
+### Machine Learning / AI
+PyTorch • TensorFlow • Scikit-learn • HuggingFace • YOLO • GANs  
+
+### NLP / LLM
+Transformers • RAG • GPT • spaCy • NLTK • Embeddings  
+
+### Cloud
+AWS (SageMaker, Lambda, EC2) • Google Cloud  
+
+### Data Engineering
+Pandas • NumPy • Spark • Hadoop • Kafka  
+
+### MLOps / DevOps
+Docker • MLflow • Git • CI/CD  
+
+### Frontend
+React • TypeScript • Vite • Tailwind CSS  
+
+---
+
+# 📊 Featured Projects
+
+## 🎯 Mini RAG
+Lightweight Retrieval-Augmented Generation for local document Q&A.
+
+- Embedding-based retrieval  
+- Local LLM integration  
+- Fast semantic search  
+
+🔗 https://github.com/abdallared/Mini_RAG-main
+
+---
+
+## 🚗 Vehicle Detection Fine-tuning
+Improved vehicle detection accuracy using YOLO + Faster R-CNN.
+
+- +18% detection accuracy  
+- Transfer learning  
+- Custom dataset training  
+
+🔗 https://github.com/abdallared/Vehicle_Detection-finetuning-
+
+---
+
+## 📸 Image Caption Generator
+CNN + LSTM model generating captions with attention.
+
+- ResNet encoder  
+- LSTM decoder  
+- 90% caption accuracy  
+
+🔗 https://github.com/abdallared/Image_Caption_Generator
+
+---
+
+## 🏥 Care Insurance Classification
+Vehicle insurance risk prediction model.
+
+- 94% precision  
+- Feature engineering  
+- Classification pipeline  
+
+🔗 https://github.com/abdallared/car-insurance
+
+---
+
+## 🚙 Car Price Prediction
+Regression model for car price estimation.
+
+- MAE < $500  
+- Feature engineering  
+- Linear regression pipeline  
+
+🔗 https://github.com/abdallared/car_price_prediction
+
+---
+
+# 📈 Key Achievements
+
+- 15+ Machine Learning Projects  
+- 5+ AI / ML Internships  
+- 94% Best Model Accuracy  
+- 40% Pipeline Efficiency Improvement  
+- 30% Cloud Cost Reduction  
+- Production-ready ML Deployments  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abdallared&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallared&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallared&layout=compact&hide_border=true"/>
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- LLM Fine-tuning  
+- Advanced RAG Architectures  
+- MLOps Monitoring  
+- Distributed ML Systems  
+- Reinforcement Learning  
+
+---
+
+# 🎯 Let's Connect
+
+🌐 Portfolio: https://abdallared.github.io/portfolio/  
+💼 LinkedIn: https://linkedin.com/in/abdallahreda42  
+📧 Email: abdreada4444@gmail.com  
+💻 GitHub: https://github.com/abdallared  
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/abdallared/abdallared/output/snake.svg" />
+</p>
+
+---
+
+⭐ Turning data into intelligent systems that scale.
